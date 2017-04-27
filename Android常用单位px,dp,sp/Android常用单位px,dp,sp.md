@@ -17,8 +17,8 @@ Android常用的尺寸单位：
 	scaleDensity = scale * density  
 	在Android手机设置的显示设置中,  设置的字体大小为标准时，scale=1；字体大小为特小，小，大等情况时，scale会适当的缩小或变大。
 
-![这里写图片描述](http://img.blog.csdn.net/20160904001107365)  
-![这里写图片描述](http://img.blog.csdn.net/20160904001141086)
+![设置界面](pic1.jpg)  
+![字体大小设置](pic2.jpg)
 
 - dp（dip）：独立像素，Android系统的特有单位。
 
